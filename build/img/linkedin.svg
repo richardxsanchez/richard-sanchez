@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>linkedin_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="design#3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="desktop-#2" transform="translate(-675.000000, -1027.000000)" fill="#D6D8D9">
+            <g id="content" transform="translate(48.000000, 123.000000)">
+                <g id="PROFILE" transform="translate(45.000000, 146.000000)">
+                    <g id="profile_social" transform="translate(513.000000, 627.000000)">
+                        <path d="M73,133 C73,134.1 72.3,135 71,135 C69.8,135 69,134.1 69,133.1 C69,132 69.8,131 71,131 C72.2,131 73,131.9 73,133 L73,133 Z M69,149 L73,149 L73,136 L69,136 L69,149 L69,149 Z M82.6,136.2 C80.5,136.2 79.3,137.4 78.8,138.2 L78.7,138.2 L78.5,136.5 L74.9,136.5 C74.9,137.6 75,138.9 75,140.4 L75,149 L79,149 L79,141.9 C79,141.5 79,141.2 79.1,140.9 C79.4,140.2 79.9,139.3 81,139.3 C82.4,139.3 83,140.5 83,142.1 L83,149 L87,149 L87,141.6 C87,137.9 85.1,136.2 82.6,136.2 L82.6,136.2 Z" id="linkedin_icon"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

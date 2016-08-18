@@ -1,0 +1,256 @@
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* Template Name: ????????????????????? */
+/* Build Version: ?????????? */
+/* Build Date: ????????????? */
+/* Author: RICHARD SANCHEZ */
+/* Website: ???????????????????? */
+/* Copyright: (C) ????????????????? */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* TABLE OF CONTENTS: */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 00 - LAYOUT INITIALIZATION & COLOR PRESETS */
+/* 00 - ABOUT SECTION */
+/* 00 - CONTACT SECTION */
+/* 00 - RESPONSIVE */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:300,400,600';
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 00 - LAYOUT INITIALIZATION & COLOR PRESETS */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+html {
+  height: 100vh;
+  overflow-y: scroll;
+  font-size: 1rem;
+  font-family: open sans;
+  font-weight: 300;
+}
+
+body {
+  max-width: 998px;
+  margin: 0 auto;
+  background-color: #F1F5F6;
+  box-shadow: 0 2px 20px 0;
+}
+
+.active {
+  background-color: #F1F5F6;
+  box-shadow: 0 4px 0 0 #F1F5F6;
+}
+
+.wrapper header {
+  height: 10vh;
+  width: 100%;
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 3px 0 #9B9B9B;
+}
+
+.wrapper header nav {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.wrapper header nav span {
+  display: inline-block;
+  padding: 4vh;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 00 - ABOUT SECTION */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+.body-container .about-wrapper {
+  background-color: #FFFFFF;
+  width: 80%;
+  margin: .8rem auto 0;
+  padding: 1rem 0;
+  box-shadow: 0 1px 3px 0 #9B9B9B;
+}
+
+.body-container .about-wrapper .about-me {
+  width: 40%;
+  margin: 0 auto;
+  padding: .5rem 0;
+  text-align: center;
+}
+
+.body-container .about-wrapper .about-me img {
+  margin: 0 auto;
+  padding-bottom: .5rem;
+  height: 20vh;
+  border-radius: 10rem;
+}
+
+.body-container .about-wrapper .about-me h1 {
+  margin: .3rem 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.body-container .about-wrapper .about-me h3 {
+  font-weight: 400;
+  margin-bottom: 1rem;
+}
+
+.body-container .about-wrapper .about-btn {
+  display: block;
+  text-align: center;
+  padding: .5rem 0;
+}
+
+.body-container .about-wrapper .about-btn .follow-btn {
+  margin: .2rem;
+}
+
+.body-container .about-wrapper .about-btn .follow-btn button {
+  color: #FFFFFF;
+  background-color: #2EBFD9;
+  border: .1rem solid #FFFFFF;
+  border-radius: 2rem;
+  padding: .5rem 1.8rem;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.body-container .about-wrapper .about-btn .message-btn {
+  margin: .2rem;
+}
+
+.body-container .about-wrapper .about-btn .message-btn button {
+  background-color: #FFFFFF;
+  border: .1rem solid #2EBFD9;
+  border-radius: 2rem;
+  padding: .5rem 2rem;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.body-container .about-wrapper .social-media {
+  text-align: center;
+  padding: .5rem 0;
+}
+
+.body-container .about-wrapper .social-media .instagram {
+  margin: 1vh;
+  display: inline-block;
+}
+
+.body-container .about-wrapper .social-media .instagram .instagram-img {
+  display: inherit;
+}
+
+.body-container .about-wrapper .social-media .instagram .instagram-img img {
+  height: 3.5vh;
+}
+
+.body-container .about-wrapper .social-media .instagram .instagram-info {
+  display: inherit;
+  padding: 0 .5rem;
+  text-align: left;
+}
+
+.body-container .about-wrapper .social-media .instagram .instagram-info span {
+  color: #ADAFB2;
+}
+
+.body-container .about-wrapper .social-media .instagram .instagram-info span:last-of-type {
+  color: #000;
+  display: block;
+  font-weight: 400;
+}
+
+.body-container .about-wrapper .social-media .twitter {
+  margin: 1vh;
+  display: inline-block;
+}
+
+.body-container .about-wrapper .social-media .twitter .twitter-img {
+  display: inherit;
+}
+
+.body-container .about-wrapper .social-media .twitter .twitter-img img {
+  height: 3.5vh;
+}
+
+.body-container .about-wrapper .social-media .twitter .twitter-info {
+  display: inherit;
+  padding: 0 .5rem;
+  text-align: left;
+}
+
+.body-container .about-wrapper .social-media .twitter .twitter-info span {
+  color: #ADAFB2;
+}
+
+.body-container .about-wrapper .social-media .twitter .twitter-info span:last-of-type {
+  color: #000;
+  display: block;
+  font-weight: 400;
+}
+
+.body-container .about-wrapper .social-media .more-social-media {
+  padding-top: .5rem;
+  width: 12.2rem;
+  margin: 0 auto;
+  text-align: left;
+  color: #ADAFB2;
+  line-height: 1.5rem;
+}
+
+.body-container .about-wrapper .social-media .more-social-media img {
+  height: 2vh;
+  vertical-align: middle;
+}
+
+.body-container .about-wrapper .social-media .more-social-media span {
+  padding-left: .5rem;
+  font-size: .8rem;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 00 - WORK SECTION */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+.body-container .work-wrapper {
+  background-color: #FFFFFF;
+  width: 80%;
+  height: 35vh;
+  margin: 1.5rem auto 0;
+  box-shadow: 0 1px 3px 0 #9B9B9B;
+}
+
+.body-container .work-wrapper .main-title {
+  width: 80%;
+  margin: 0 auto;
+  padding: 1rem 0;
+}
+
+.body-container .work-wrapper .main-title h1 {
+  font-weight: 400;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 00 - CONTACT SECTION */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 00 - RESPONSIVE */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+@media (max-width: 500px) {
+  .wrapper .body-container .about-wrapper {
+    width: 90%;
+  }
+  .wrapper .body-container .about-wrapper .about-me {
+    width: 100%;
+  }
+  .wrapper .body-container .work-wrapper {
+    width: 90%;
+  }
+}
+
+@media (max-width: 920px) {
+  .wrapper .body-container .about-wrapper .about-me {
+    width: 60%;
+  }
+}

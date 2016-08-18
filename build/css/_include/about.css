@@ -1,0 +1,126 @@
+.body-container .about-wrapper {
+  background-color: #FFFFFF;
+  width: 80%;
+  margin: 1.5rem auto 0;
+  padding: 1rem 0;
+  box-shadow: 0 1px 3px 0 #9B9B9B;
+}
+
+.body-container .about-wrapper .about-me {
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.body-container .about-wrapper .about-me img {
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  height: 20vh;
+  border-radius: 10rem;
+}
+
+.body-container .about-wrapper .about-me h1 {
+  margin: .3rem 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.body-container .about-wrapper .about-me h3 {
+  font-weight: 400;
+  margin-bottom: 1rem;
+}
+
+.body-container .about-wrapper .about-btn {
+  display: block;
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.body-container .about-wrapper .about-btn .follow-btn {
+  margin: .2rem;
+}
+
+.body-container .about-wrapper .about-btn .follow-btn button {
+  color: #FFFFFF;
+  background-color: #2EBFD9;
+  border: .1rem solid #FFFFFF;
+  border-radius: 2rem;
+  padding: .5rem 1.8rem;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.body-container .about-wrapper .about-btn .message-btn {
+  margin: .2rem;
+}
+
+.body-container .about-wrapper .about-btn .message-btn button {
+  background-color: #FFFFFF;
+  border: .1rem solid #2EBFD9;
+  border-radius: 2rem;
+  padding: .5rem 2rem;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.body-container .about-wrapper .social-media {
+  text-align: center;
+}
+
+.body-container .about-wrapper .social-media .instagram {
+  margin: 1vh;
+  display: inline-block;
+}
+
+.body-container .about-wrapper .social-media .instagram .instagram-img {
+  display: inherit;
+}
+
+.body-container .about-wrapper .social-media .instagram .instagram-img img {
+  height: 3.5vh;
+}
+
+.body-container .about-wrapper .social-media .instagram .instagram-info {
+  display: inherit;
+  padding: 0 .5rem;
+  text-align: left;
+}
+
+.body-container .about-wrapper .social-media .instagram .instagram-info span {
+  color: #ADAFB2;
+}
+
+.body-container .about-wrapper .social-media .instagram .instagram-info span:last-of-type {
+  color: #000;
+  display: block;
+  font-weight: 400;
+}
+
+.body-container .about-wrapper .social-media .twitter {
+  margin: 1vh;
+  display: inline-block;
+}
+
+.body-container .about-wrapper .social-media .twitter .twitter-img {
+  display: inherit;
+}
+
+.body-container .about-wrapper .social-media .twitter .twitter-img img {
+  height: 3.5vh;
+}
+
+.body-container .about-wrapper .social-media .twitter .twitter-info {
+  display: inherit;
+  padding: 0 .5rem;
+  text-align: left;
+}
+
+.body-container .about-wrapper .social-media .twitter .twitter-info span {
+  color: #ADAFB2;
+}
+
+.body-container .about-wrapper .social-media .twitter .twitter-info span:last-of-type {
+  color: #000;
+  display: block;
+  font-weight: 400;
+}
